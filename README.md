@@ -4,7 +4,7 @@
 
 ## Integrantes
 
-Juan Esteban Osorio y Jose Manuel Garcia
+Juan Esteban Osorio 65909 y Jose Manuel Garcia 63911
 
 ## Descripcion General
 
